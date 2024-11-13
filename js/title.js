@@ -17,18 +17,18 @@ function loaded(){
 var x = 0;
 
 var titleText = [ "|",
-					"B|",
-					"B |",
-					"B A|",
-					"B A |",
-					"B A L|",
-					"B A L |",
-					"B A L L|",
-					"B A L L |",
-					"B A L L A|",
-					"B A L L A |",
-					"B A L L A S |",
-					"B A L L A S  |"];
+					"S|",
+					"S |",
+					"S A|",
+					"S A |",
+					"S A I|",
+					"S A I |",
+					"S A I N|",
+					"S A I N |",
+					"S A I N T|",
+					"S A I N T |",
+					"S A I N T S |",
+					"S A I N T S  |"];
 
 function loop(){
 
